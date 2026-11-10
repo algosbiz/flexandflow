@@ -174,8 +174,21 @@ export const openingSchedule = {
 /** Where a therapist visits, as the contact and home service pages list it. */
 export const homeServiceAreas = ["Ungasan", "Pecatu", "Bingin", "Padang Padang", "Balangan"];
 
+/**
+ * The studio's name on its Google Maps listing, exactly as Google shows it.
+ * The owner asked Google for "Flex&Flow Uluwatu" on 10 Nov 2026 (it was
+ * "Flex&flow assisted stretching"); merge this only once Maps shows the new
+ * name, since a name change can sit in review or be refused. The business
+ * node in the structured data carries it as its
+ * `name`, so the site and the listing name the same business. The brand on
+ * the page and in Google's results stays "Flex & Flow" (`siteConfig`).
+ */
+export const googleBusinessName = "Flex&Flow Uluwatu";
+
+/** Opens the listing itself: its name with the address finds it, where the
+ *  address alone found only the street. */
 export const studioMapsUrl = `https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(
-  contact.address,
+  `${googleBusinessName}, ${contact.address}`,
 )}`;
 
 /**
