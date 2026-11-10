@@ -24,7 +24,7 @@ const description =
 
 /** Studio location, embedded from Google Maps exactly as on the original. */
 const MAP_SRC =
-  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.5714153571184!2d115.12042387606834!3d-8.826270990327098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd25b536736f9db%3A0xa2033d81afbfb42f!2sFlex%26flow%20assisted%20stretching!5e0!3m2!1sen!2sid!4v1738724893822!5m2!1sen!2sid";
+  "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3942.5714153571184!2d115.12042387606834!3d-8.826270990327098!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd25b536736f9db%3A0xa2033d81afbfb42f!2sFlex%26Flow%20Uluwatu!5e0!3m2!1sen!2sid!4v1738724893822!5m2!1sen!2sid";
 
 export const metadata: Metadata = {
   title,
@@ -223,7 +223,7 @@ export default function ContactPage() {
 
             <iframe
               src={MAP_SRC}
-              title="Flex &amp; Flow studio location"
+              title="Flex&amp;Flow Uluwatu on Google Maps"
               loading="lazy"
               allowFullScreen
               referrerPolicy="no-referrer-when-downgrade"
