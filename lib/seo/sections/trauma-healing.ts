@@ -9,7 +9,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Trauma healing here is **body-based**: hands-on physical bodywork, sometimes called somatic work because it works through the body rather than through talking. It works on chronic muscle tension, tight fascia (the connective tissue around your muscles) and stored physical stress in areas such as the back, neck, shoulders and hips. Flex & Flow is a bodywork studio in Ungasan, not a retreat or an emotional healing centre, and this is not psychotherapy, counselling or treatment for PTSD.",
+    text: "Trauma healing here is **body-based**: hands-on physical bodywork, sometimes called somatic work because it works through the body rather than through talking. It works on chronic muscle tension, tight fascia (the connective tissue around your muscles) and stored physical stress in areas such as the back, neck, shoulders and hips. Because the body and mind are connected, releasing long-held tension often eases mental stress too: many clients leave calmer and lighter, not just looser. Flex & Flow is a bodywork studio in Ungasan, not a retreat or an emotional healing centre, and this is not psychotherapy, counselling or treatment for PTSD.",
   },
   {
     type: "paragraph",
@@ -73,6 +73,10 @@ const blocks: ContentBlock[] = [
       {
         question: "What is body-based trauma healing?",
         answer: "Body-based trauma healing works on stress the body holds physically, through hands-on bodywork rather than conversation. Ginny uses slow, sustained pressure on long-held tension in the back, neck, shoulders and hips, and adjusts it to how your body responds. It is a single 90-minute session at our bodywork studio, not a retreat or a programme, and it does not replace mental-health care.",
+      },
+      {
+        question: "Does trauma healing help with mental stress?",
+        answer: "Often, yes. Many people feel mentally calmer and less stressed after a session, because the body lets go of tension it has been holding, sometimes for years. Think of it as relief from everyday stress, not treatment for anxiety, depression or PTSD. Those still need a qualified mental-health professional, and bodywork can sit alongside that care.",
       },
       {
         question: "What does trauma release mean in bodywork?",
