@@ -80,7 +80,7 @@ export const PAGE_SEO: Record<string, PageSeo> = {
   "/uluwatu-bali/trauma-healing/": {
     title: "Trauma Healing & Release in Uluwatu, Bali | Flex & Flow",
     description:
-      "Slow, deep bodywork for chronic tension and stored physical stress, more focused than a massage. Trauma healing with Ginny in Uluwatu, 90 min, IDR 1,800,000.",
+      "Body-based trauma healing at a bodywork studio in Uluwatu, Bali: slow, deep work on tension held for years, not a retreat. With Ginny, 90 min, IDR 1,800,000.",
     h1: "Trauma Healing in Uluwatu, Bali",
   },
   "/uluwatu-bali/lymphatic-detox-massage-for-men/": {
