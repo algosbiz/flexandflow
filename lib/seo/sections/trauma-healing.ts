@@ -5,11 +5,11 @@ const blocks: ContentBlock[] = [
   {
     type: "heading",
     level: 2,
-    text: "Trauma release in Bali: physical bodywork, not psychological therapy",
+    text: "Body-based trauma healing in Bali, at a bodywork studio",
   },
   {
     type: "paragraph",
-    text: "Trauma healing, or trauma release, is **physical bodywork**. It works on chronic muscle tension, tight fascia (the connective tissue around your muscles) and stored physical stress in areas such as the back, neck, shoulders and hips. It is not psychotherapy, counselling or treatment for PTSD, and Flex & Flow is not an emotional healing centre.",
+    text: "Trauma healing here is **body-based**: hands-on physical bodywork, sometimes called somatic work because it works through the body rather than through talking. It works on chronic muscle tension, tight fascia (the connective tissue around your muscles) and stored physical stress in areas such as the back, neck, shoulders and hips. Flex & Flow is a bodywork studio in Ungasan, not a retreat or an emotional healing centre, and this is not psychotherapy, counselling or treatment for PTSD.",
   },
   {
     type: "paragraph",
@@ -69,6 +69,10 @@ const blocks: ContentBlock[] = [
       {
         question: "How much does trauma healing cost in Bali at Flex & Flow?",
         answer: "Trauma healing at Flex & Flow costs **IDR {{price:trauma-healing:90:master}} for a 90-minute session** at the studio in Ungasan, Uluwatu. It is only offered with Ginny, the founder and master therapist. It costs more than a sport massage because the work is slower, needs more preparation and extra time before and after, and Ginny limits how many of these sessions she gives.",
+      },
+      {
+        question: "What is body-based trauma healing?",
+        answer: "Body-based trauma healing works on stress the body holds physically, through hands-on bodywork rather than conversation. Ginny uses slow, sustained pressure on long-held tension in the back, neck, shoulders and hips, and adjusts it to how your body responds. It is a single 90-minute session at our bodywork studio, not a retreat or a programme, and it does not replace mental-health care.",
       },
       {
         question: "What does trauma release mean in bodywork?",
