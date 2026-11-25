@@ -18,7 +18,7 @@ import {
   homeServiceFeeIdr,
   homeServiceSlugs,
 } from "@/lib/site";
-import { COLUMN_GROUPS, RAIL_PHOTOS } from "@/lib/seo/layouts";
+import { COLUMN_GROUPS, NO_TIER_CHOOSER, RAIL_PHOTOS } from "@/lib/seo/layouts";
 import RailPhotos from "./RailPhotos";
 import RailTeam from "./RailTeam";
 import RelatedBand from "./RelatedBand";
@@ -97,7 +97,11 @@ export default async function ServiceArticle({
     (block) => block.type === "heading" && block.level === 2 && /\bprices?\b/i.test(block.text),
   );
   const chooser =
-    pilot && priceHeading?.type === "heading" && master.length && team.length
+    pilot &&
+    !NO_TIER_CHOOSER.has(service.seo.canonicalPath) &&
+    priceHeading?.type === "heading" &&
+    master.length &&
+    team.length
       ? {
           [priceHeading.text]: (
             <TierChooser

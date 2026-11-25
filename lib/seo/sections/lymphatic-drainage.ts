@@ -7,9 +7,9 @@ const blocks: ContentBlock[] = [
     level: 2,
     text: "Lymphatic drainage massage in Uluwatu, Bali: prices and session length",
   },
-  /* The therapist-or-Ginny choice that opens this section on the redesign
-     is `TierChooser`, placed under this heading by `ServiceArticle` from the
-     rate card. */
+  /* No `TierChooser` here (`NO_TIER_CHOOSER` in `lib/seo/layouts.ts`): its
+     prices repeat the rate card. This table is the only place with the
+     90-minute and villa prices. */
   /* One session per row, team first and Ginny after, so the scannable layout
      sets it as a price menu (`RichText`): studio price, villa price under it. */
   {
@@ -40,7 +40,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Choose **60 minutes** if one area bothers you, such as legs that feel heavy after a long flight or a day on your feet. Choose **90 minutes** if you would like a broader part of the body covered at an unhurried pace. Prices are the same at our studio on Jl. Toya Ning II, Ungasan, and at your villa or hotel in the Uluwatu area, where an IDR {{fee}} home service fee is added per visit.",
+    text: "Choose **60 minutes** if one area bothers you, such as legs that feel heavy after a long flight or a day on your feet. Choose **90 minutes** if you would like a broader part of the body covered at an unhurried pace. Villa prices include the IDR {{fee}} home service fee.",
   },
   {
     type: "heading",
@@ -130,12 +130,8 @@ const blocks: ContentBlock[] = [
         answer: "At Flex & Flow in Ungasan, Uluwatu, lymphatic drainage costs IDR {{price:lymphatic-drainage:60:standard}} for 60 minutes or IDR {{price:lymphatic-drainage:90:standard}} for 90 minutes with our therapist, Yuni. With Ginny, the founder and master therapist, it is IDR {{price:lymphatic-drainage:60:master}} for 60 minutes or IDR {{price:lymphatic-drainage:90:master}} for 90 minutes. For a session at your villa or hotel in the Uluwatu area, add an IDR {{fee}} home service fee per visit.",
       },
       {
-        question: "Where can I get a lymphatic massage near me in Bali?",
-        answer: "Flex & Flow offers lymphatic drainage massage at its studio on Jl. Toya Ning II, Ungasan, in Uluwatu, Monday to Saturday from 09:00 to 17:00 (closed Sunday). If you are staying in the Uluwatu area, a therapist can come to you instead. You can [book online](https://flexandflow.fit/appointment/?service=lymphatic-drainage) or message us on [WhatsApp](https://wa.me/6285858887777) on +62 858 5888 7777.",
-      },
-      {
-        question: "Where can I find the best lymphatic drainage massage in Bali?",
-        answer: "Look for three things: a therapist who asks about your health first, pressure that stays light throughout, and strokes that follow the body's drainage routes towards the nodes. If it feels like deep tissue, it is a different massage. At Flex & Flow in Ungasan, sessions are with [Yuni](/therapist/yuni/), our Javanese massage and lymphatic specialist, or with our founder Ginny.",
+        question: "Where can I find a lymphatic drainage massage in Uluwatu, Bali?",
+        answer: "Flex & Flow offers it at the studio on Jl. Toya Ning II, Ungasan, Monday to Saturday from 09:00 to 17:00, with [Yuni](/therapist/yuni/) or our founder Ginny, or at your villa in the Uluwatu area. Wherever you go, look for a therapist who asks about your health first and keeps the pressure light throughout. [Book online](https://flexandflow.fit/appointment/?service=lymphatic-drainage) or on [WhatsApp](https://wa.me/6285858887777).",
       },
       {
         question: "Is Balinese massage good for lymphatic drainage?",

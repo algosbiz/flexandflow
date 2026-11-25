@@ -16,7 +16,7 @@ const copy: PageCopy = {
     },
     {
       type: "paragraph",
-      text: "Sessions are with Yuni, our Javanese massage and lymphatic specialist, or with our founder [Ginny](/therapist/ginny/), whose own diary is limited. Book at the studio in Ungasan, or have it at your villa in the Uluwatu area.",
+      text: "Sessions are with [Yuni](/therapist/yuni/), our Javanese massage and lymphatic specialist, or with our founder [Ginny](/therapist/ginny/), whose own diary is limited. Book at the studio in Ungasan, or have it at your villa in the Uluwatu area.",
     },
     { type: "heading", level: 2, text: "How We Approach Lymphatic Drainage" },
     /* Three cards on the scannable layout, grouped by `COLUMN_GROUPS`. */

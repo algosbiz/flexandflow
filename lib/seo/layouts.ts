@@ -165,3 +165,7 @@ export const RAIL_PHOTOS: Record<string, RailPhoto[]> = {
     { src: "/images/2026/06/studio-new.jpg", width: 1300, height: 1200, caption: "Stretch · Release · Recover", position: "50% center" },
   ],
 };
+
+/** Treatment pages that leave out the team-or-Ginny cards (`TierChooser`),
+ *  by canonical path: their prices only repeated the rate card in the hero. */
+export const NO_TIER_CHOOSER = new Set(["/uluwatu-bali/lymphatic-drainage/"]);
