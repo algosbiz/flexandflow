@@ -22,7 +22,7 @@ import { therapistRates } from "@/lib/data/priceList";
 import type { Therapist } from "@/lib/data/therapists";
 import { priceAmount } from "@/lib/pricing";
 import { GOOGLE_REVIEWS } from "@/lib/seo/reviews";
-import { contact, homeServiceAreas, siteConfig } from "@/lib/site";
+import { contact, googleBusinessName, homeServiceAreas, siteConfig } from "@/lib/site";
 import type { ContentBlock, Post, Service } from "@/types";
 
 /** The business node's `@id`. Services and articles point back at it. */
@@ -63,8 +63,10 @@ export function businessSchema() {
     "@context": "https://schema.org",
     "@type": "HealthAndBeautyBusiness",
     "@id": BUSINESS_ID,
-    name: siteConfig.name,
-    alternateName: siteConfig.shortName,
+    /* The Google Maps listing's name, so Google matches this node to it;
+       the brand as people write it stays alongside. */
+    name: googleBusinessName,
+    alternateName: [siteConfig.shortName, siteConfig.name],
     url: `${siteConfig.url}/`,
     logo: absolute(siteConfig.logo),
     image: BUSINESS_IMAGES.map(absolute),
