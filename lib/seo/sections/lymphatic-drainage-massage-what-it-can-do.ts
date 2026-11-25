@@ -87,7 +87,7 @@ const blocks: ContentBlock[] = [
     type: "list",
     ordered: true,
     items: [
-      "**Choose the session.** [Lymphatic drainage](/uluwatu-bali/lymphatic-drainage/) is a full-body session, with the legs, stomach and face included. The [lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/) is the same treatment, a bit more intense.",
+      "**Choose the session.** [Lymphatic drainage](/uluwatu-bali/lymphatic-drainage/) is a full-body session, with the legs, stomach and face included. The [lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/) is our session for men.",
       "**Choose the place.** Come to the studio on Jl. Toya Ning II, Ungasan, Monday to Saturday from 09:00 to 17:00, or have a therapist visit your villa in the Uluwatu area for an extra IDR {{fee}}.",
       "**Share your health history.** Mention medication, recent surgery, pregnancy and any of the warning signs above. We ask before every session.",
       "**Book.** Use [online booking](https://flexandflow.fit/appointment/?service=lymphatic-drainage) or [WhatsApp](https://wa.me/6285858887777).",
@@ -107,7 +107,7 @@ const blocks: ContentBlock[] = [
       },
       {
         question: "Does lymphatic drainage massage hurt?",
-        answer: "No. Lymphatic drainage uses very light, slow strokes close to the skin, so it should feel gentle and often relaxing. Pain or deep pressure means you are getting a different kind of massage, so say so. Our standard lymphatic session stays light from start to finish. If you would like firm pressure on tight muscles, book a [sport massage](/uluwatu-bali/sport-massage/) instead.",
+        answer: "No. Lymphatic drainage uses very light, slow strokes close to the skin, so it should feel gentle and often relaxing. Pain or deep pressure means you are getting a different kind of massage, so say so. Our lymphatic sessions stay light from start to finish. If you would like firm pressure on tight muscles, book a [sport massage](/uluwatu-bali/sport-massage/) instead.",
       },
       {
         question: "Can I have lymphatic drainage after liposuction or cosmetic surgery?",
@@ -123,7 +123,7 @@ const blocks: ContentBlock[] = [
       },
       {
         question: "Can men have lymphatic drainage massage?",
-        answer: "Yes. The technique is the same for men and women. At Flex & Flow in Uluwatu, men can book standard lymphatic drainage from IDR {{price:lymphatic-drainage:60:standard}} for 60 minutes, or the [lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/), the same full-body treatment with a bit more intensity, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes. Both are available at the studio in Ungasan or at your villa.",
+        answer: "Yes. The technique is the same for men and women. At Flex & Flow in Uluwatu, men can book standard lymphatic drainage from IDR {{price:lymphatic-drainage:60:standard}} for 60 minutes, or the [lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/), a full-body session for men, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes. Both are available at the studio in Ungasan or at your villa.",
       },
     ],
   },
