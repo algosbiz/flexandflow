@@ -12,7 +12,7 @@ const copy: PageCopy = {
   body: [
     {
       type: "paragraph",
-      text: "Lymphatic drainage is the opposite of deep tissue: slow, light, rhythmic strokes that work close to the skin, where the lymphatic vessels run, moving fluid towards the nodes that clear it. It is gentle by design, and most clients find it deeply calming.",
+      text: "Some days your body is puffy and heavy rather than sore: ankles after a long flight, legs at the end of a full day, a face that is holding water. Lymphatic drainage is made for those days, and it is the opposite of deep tissue: slow, light, rhythmic strokes that work close to the skin, where the lymphatic vessels run, moving fluid towards the nodes that clear it. It is gentle by design, and most clients find it deeply calming.",
     },
     {
       type: "paragraph",
