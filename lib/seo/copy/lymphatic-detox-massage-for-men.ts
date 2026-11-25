@@ -13,7 +13,7 @@ const copy: PageCopy = {
   body: [
     {
       type: "paragraph",
-      text: "This is our lymphatic drainage built for men: full-body lymphatic work, then the face, scalp, head and neck, in one unhurried session. The pressure stays light the whole way through, so it feels less like a massage and more like a reset.",
+      text: "This is our lymphatic drainage built for men: full-body lymphatic work from the lower body up, finishing with the face, neck, head and scalp. The pressure stays light the whole way through, so it feels less like a massage and more like a reset.",
     },
     {
       type: "paragraph",
@@ -25,8 +25,8 @@ const copy: PageCopy = {
       type: "columns",
       items: [
         "A short consultation on where you feel heavy and what you want from the session.",
-        "Any health concerns, said up front.",
-        "Slow circular and gliding strokes move fluid through the whole body.",
+        "Any health concerns, then a full-body check, activating each drainage point.",
+        "Slow circular and gliding strokes, always towards a drainage point or the heart.",
         "No deep pressure at any point.",
         "Facial lymphatic work to ease puffiness and heaviness in the face.",
         "Head, scalp and neck release to finish.",

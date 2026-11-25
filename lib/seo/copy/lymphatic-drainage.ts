@@ -2,7 +2,8 @@
  * The copy of /uluwatu-bali/lymphatic-drainage/, in place of the panel's.
  * See ./index.ts and the voice notes in ./sport-massage.ts. Facts from the
  * panel copy (light rhythmic technique, puffiness, home service) and the
- * page's own sections (Yuni and Ginny, 60 and 90 minutes).
+ * page's own sections (Yuni and Ginny, 60 and 90 minutes). The order of
+ * work, the drainage points and the room come from the client, 25 Nov 2026.
  */
 import type { PageCopy } from "./index";
 
@@ -24,11 +25,11 @@ const copy: PageCopy = {
       type: "columns",
       items: [
         "We start with where you feel heavy or puffy, and anything we should know about your health.",
-        "Strokes follow the body's drainage routes, towards the nodes, rather than a set routine.",
+        "Then a full-body check, activating each drainage point.",
+        "Every stroke moves towards a drainage point or the heart, following the lymphatic pathways.",
         "Pressure stays soft and rhythmic: circles, gentle glides and light stretching of the skin.",
-        "No deep muscle work, so it suits the days your body wants rest.",
-        "Legs, stomach and face are all part of the session.",
-        "60 minutes, or 90 for a slower pace and more time where you feel heaviest.",
+        "Lower body to upper body, with more of the work on the front, where there is more to do.",
+        "We finish with the face, neck, head and scalp.",
       ],
     },
     { type: "heading", level: 2, text: "When People Book It" },
