@@ -40,7 +40,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Both lengths are **full body**, with the legs, stomach and face included. Choose **90 minutes** for a slower pace and more time where you feel heaviest. Villa prices include the IDR {{fee}} home service fee.",
+    text: "Both lengths are **full body**, from the legs and stomach to the face, neck, head and scalp. Choose **90 minutes** for a slower pace and more time where you feel heaviest. Villa prices include the IDR {{fee}} home service fee.",
   },
   {
     type: "heading",
@@ -51,7 +51,8 @@ const blocks: ContentBlock[] = [
     type: "list",
     items: [
       "**Before**: say where you feel heavy or puffy, and mention medication, recent surgery, pregnancy or any health condition.",
-      "**During**: slow, light strokes towards the nodes. If the pressure ever feels deep, say so, because lymphatic work should not hurt.",
+      "**During**: slow, light strokes, always towards a drainage point or the heart. If the pressure ever feels deep, say so, because lymphatic work should not hurt.",
+      "**The room**: we usually keep the aircon off for this treatment. If the day is too hot, or you would rather have it on, we switch it on.",
       "**Afterwards**: many people find puffy areas feel lighter. Drink water as you normally would and carry on with your day.",
       "**How long it lasts**: the lighter feeling is temporary and varies from person to person. Any slimmer look comes from less swelling, so do not book it for weight loss.",
     ],
@@ -77,7 +78,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "The two treatments do very different jobs, so start with how your body feels rather than with the menu.",
+    text: "The two treatments do very different jobs, so start with how your body feels rather than with the menu. Light does not mean still, either: there is so much movement in a lymphatic session that for our therapists it is almost a cardio workout.",
   },
   {
     type: "list",
@@ -143,7 +144,7 @@ const blocks: ContentBlock[] = [
       },
       {
         question: "Which areas does a lymphatic drainage session cover?",
-        answer: "It is a full-body massage, and the legs, stomach and face are all included. If one area feels heaviest, such as your legs after a long flight, tell your therapist at the start so the session can spend more time there. Choose 90 minutes for a slower pace. The pressure stays light on every area.",
+        answer: "It is a full-body massage. We work from the lower body to the upper body, with more of the work on the front, and finish with the face, neck, head and scalp. If one area feels heaviest, such as your legs after a long flight, tell your therapist at the start so the session can spend more time there. Choose 90 minutes for a slower pace. The pressure stays light on every area.",
       },
       {
         question: "Is one lymphatic drainage session enough?",

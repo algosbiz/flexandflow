@@ -42,8 +42,8 @@ export const COLUMN_GROUPS: Record<string, ColumnGroups> = {
     first: "We start with where you feel heavy",
     groups: [
       { title: "Mapped first", items: [0, 1] },
-      { title: "Light on purpose", items: [2, 3] },
-      { title: "Full body", items: [4, 5] },
+      { title: "Light, one direction", items: [2, 3] },
+      { title: "Lower body to scalp", items: [4, 5] },
     ],
   },
   "/uluwatu-bali/lymphatic-detox-massage-for-men/": {
