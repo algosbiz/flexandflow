@@ -84,7 +84,7 @@ const blocks: ContentBlock[] = [
     items: [
       "**Lymphatic drainage**: light, slow strokes close to the skin. A good fit for puffiness, heavy legs, or when you simply want calm, gentle bodywork.",
       "**[Sport massage](/uluwatu-bali/sport-massage/)**: firmer work into the muscles. A better fit for stiffness and soreness after surfing or training.",
-      "**[Lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/)**: the same full-body treatment, a bit more intense, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes.",
+      "**[Lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/)**: our full-body lymphatic session for men, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes.",
       "**[Pregnancy massage](/uluwatu-bali/pregnancy-massage-service/)**: if you are pregnant, this 90-minute session is the one adapted for pregnancy. Check with your midwife or doctor first.",
     ],
   },
