@@ -57,7 +57,7 @@ const blocks: ContentBlock[] = [
     rows: [
       [
         "Areas covered",
-        "One focused area, such as the legs, or a broader part of the body",
+        "Full body, including legs, stomach and face",
         "Full body, plus face, scalp, head and neck",
       ],
       ["Pressure", "Light and slow", "Light and slow"],
@@ -109,7 +109,7 @@ const blocks: ContentBlock[] = [
       },
       {
         question: "Is a men's lymphatic massage firmer than a normal lymphatic massage?",
-        answer: "No. The men's session uses the same light, slow strokes as standard lymphatic drainage, because lymphatic work is meant to feel gentle. What changes is the content: full-body lymphatic drainage plus facial, scalp, head and neck work. If you want firm pressure on tight or sore muscles, a sport massage is the better choice.",
+        answer: "No. The men's session uses the same light, slow strokes as standard lymphatic drainage, because lymphatic work is meant to feel gentle. What changes is the content: the men's session adds scalp, head and neck work. If you want firm pressure on tight or sore muscles, a sport massage is the better choice.",
       },
       {
         question: "Does a lymphatic detox massage actually remove toxins?",

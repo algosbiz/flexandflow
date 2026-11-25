@@ -40,7 +40,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Choose **60 minutes** if one area bothers you, such as legs that feel heavy after a long flight or a day on your feet. Choose **90 minutes** if you would like a broader part of the body covered at an unhurried pace. Villa prices include the IDR {{fee}} home service fee.",
+    text: "Both lengths are **full body**, with the legs, stomach and face included. Choose **90 minutes** for a slower pace and more time where you feel heaviest. Villa prices include the IDR {{fee}} home service fee.",
   },
   {
     type: "heading",
@@ -84,7 +84,7 @@ const blocks: ContentBlock[] = [
     items: [
       "**Lymphatic drainage**: light, slow strokes close to the skin. A good fit for puffiness, heavy legs, or when you simply want calm, gentle bodywork.",
       "**[Sport massage](/uluwatu-bali/sport-massage/)**: firmer work into the muscles. A better fit for stiffness and soreness after surfing or training.",
-      "**[Lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/)**: full-body lymphatic work plus face, scalp, head and neck, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes.",
+      "**[Lymphatic detox massage for men](/uluwatu-bali/lymphatic-detox-massage-for-men/)**: the full-body session with scalp, head and neck work added, from IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes.",
       "**[Pregnancy massage](/uluwatu-bali/pregnancy-massage-service/)**: if you are pregnant, this 90-minute session is the one adapted for pregnancy. Check with your midwife or doctor first.",
     ],
   },
@@ -142,8 +142,8 @@ const blocks: ContentBlock[] = [
         answer: "Yes. Through Flex & Flow's [home service](/uluwatu-bali/outcall-home-service-massage/), a therapist comes to your villa, hotel or home in the Uluwatu area, including Ungasan, Pecatu, Bingin, Padang Padang and Balangan, Monday to Saturday from 09:00 to 17:00. You pay the normal treatment price plus IDR {{fee}} per visit. If you are not sure whether you are in range, message us on WhatsApp.",
       },
       {
-        question: "Can lymphatic drainage focus on just my legs?",
-        answer: "Yes. A lymphatic drainage session can focus on one area where fluid tends to collect or that feels heavy, such as the legs, or cover a broader part of the body. A 60-minute session suits one focused area. Choose 90 minutes if you would like more of the body covered at a slower pace. Tell your therapist what you want at the start.",
+        question: "Which areas does a lymphatic drainage session cover?",
+        answer: "It is a full-body massage, and the legs, stomach and face are all included. If one area feels heaviest, such as your legs after a long flight, tell your therapist at the start so the session can spend more time there. Choose 90 minutes for a slower pace. The pressure stays light on every area.",
       },
       {
         question: "Is one lymphatic drainage session enough?",

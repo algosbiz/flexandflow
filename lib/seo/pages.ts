@@ -74,7 +74,7 @@ export const PAGE_SEO: Record<string, PageSeo> = {
   "/uluwatu-bali/lymphatic-drainage/": {
     title: "Lymphatic Drainage Massage in Uluwatu, Bali | Flex & Flow",
     description:
-      "Light, rhythmic lymphatic drainage for heavy legs, puffiness after flights and bodies needing a gentle reset. Uluwatu studio or villa, 60 min from IDR 500,000.",
+      "Light, full-body lymphatic drainage for legs, stomach and face, for days you feel puffy or heavy. Uluwatu, Bali studio or villa, 60 min from IDR 500,000.",
     h1: "Lymphatic Drainage Massage in Uluwatu, Bali",
   },
   "/uluwatu-bali/trauma-healing/": {
