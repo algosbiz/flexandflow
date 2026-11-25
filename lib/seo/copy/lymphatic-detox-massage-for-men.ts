@@ -13,7 +13,7 @@ const copy: PageCopy = {
   body: [
     {
       type: "paragraph",
-      text: "This is our lymphatic drainage built for men: full-body lymphatic work, then the face, scalp, head and neck, in one unhurried session. It is the same treatment as our [lymphatic drainage](/uluwatu-bali/lymphatic-drainage/), just a bit more intense, and still a reset rather than a deep massage.",
+      text: "This is our lymphatic drainage built for men: full-body lymphatic work, then the face, scalp, head and neck, in one unhurried session. It is the same treatment as our lymphatic drainage, just a bit more intense, and still a reset rather than a deep massage.",
     },
     {
       type: "paragraph",
