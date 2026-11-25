@@ -45,6 +45,34 @@ const blocks: ContentBlock[] = [
   {
     type: "heading",
     level: 2,
+    text: "What to expect, and how long it lasts",
+  },
+  {
+    type: "list",
+    items: [
+      "**Before**: say where you feel heavy or puffy, and mention medication, recent surgery, pregnancy or any health condition.",
+      "**During**: slow, light strokes towards the nodes. If the pressure ever feels deep, say so, because lymphatic work should not hurt.",
+      "**Afterwards**: many people find puffy areas feel lighter. Drink water as you normally would and carry on with your day.",
+      "**How long it lasts**: the lighter feeling is temporary and varies from person to person. Any slimmer look comes from less swelling, so do not book it for weight loss.",
+    ],
+  },
+  {
+    type: "heading",
+    level: 2,
+    text: "When to book it around flights, surf and plans",
+  },
+  {
+    type: "list",
+    items: [
+      "**Just landed**: a session in your first days in Bali suits legs that feel heavy from the flight. If one calf is painful, hot or swollen, see a doctor instead.",
+      "**Between surf or training days**: the pressure is light, so it can go on a rest day or the same day as a surf. For sore shoulders, sport massage is the better fit.",
+      "**Before something special**: book the day before, so the day itself stays unhurried.",
+      "**Short on time**: have it at your [villa or hotel](/uluwatu-bali/outcall-home-service-massage/), Monday to Saturday from 09:00 to 17:00.",
+    ],
+  },
+  {
+    type: "heading",
+    level: 2,
     text: "Lymphatic drainage or sport massage: which should you book?",
   },
   {
@@ -104,6 +132,14 @@ const blocks: ContentBlock[] = [
       {
         question: "Where can I get a lymphatic massage near me in Bali?",
         answer: "Flex & Flow offers lymphatic drainage massage at its studio on Jl. Toya Ning II, Ungasan, in Uluwatu, Monday to Saturday from 09:00 to 17:00 (closed Sunday). If you are staying in the Uluwatu area, a therapist can come to you instead. You can [book online](https://flexandflow.fit/appointment/?service=lymphatic-drainage) or message us on [WhatsApp](https://wa.me/6285858887777) on +62 858 5888 7777.",
+      },
+      {
+        question: "Where can I find the best lymphatic drainage massage in Bali?",
+        answer: "Look for three things: a therapist who asks about your health first, pressure that stays light throughout, and strokes that follow the body's drainage routes towards the nodes. If it feels like deep tissue, it is a different massage. At Flex & Flow in Ungasan, sessions are with [Yuni](/therapist/yuni/), our Javanese massage and lymphatic specialist, or with our founder Ginny.",
+      },
+      {
+        question: "Is Balinese massage good for lymphatic drainage?",
+        answer: "They are different treatments. Balinese massage usually works the muscles with oil and firmer pressure, while lymphatic drainage stays light and close to the skin, moving fluid towards the nodes. Choose lymphatic drainage if you feel puffy or heavy. If your muscles feel tight, firmer work such as [sport massage](/uluwatu-bali/sport-massage/) is the better match.",
       },
       {
         question: "Can I have lymphatic drainage at my villa in Uluwatu?",
