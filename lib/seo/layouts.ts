@@ -43,7 +43,7 @@ export const COLUMN_GROUPS: Record<string, ColumnGroups> = {
     groups: [
       { title: "Mapped first", items: [0, 1] },
       { title: "Light on purpose", items: [2, 3] },
-      { title: "Focused or full body", items: [4, 5] },
+      { title: "Full body", items: [4, 5] },
     ],
   },
   "/uluwatu-bali/lymphatic-detox-massage-for-men/": {
@@ -165,3 +165,7 @@ export const RAIL_PHOTOS: Record<string, RailPhoto[]> = {
     { src: "/images/2026/06/studio-new.jpg", width: 1300, height: 1200, caption: "Stretch · Release · Recover", position: "50% center" },
   ],
 };
+
+/** Treatment pages that leave out the team-or-Ginny cards (`TierChooser`),
+ *  by canonical path: their prices only repeated the rate card in the hero. */
+export const NO_TIER_CHOOSER = new Set(["/uluwatu-bali/lymphatic-drainage/"]);

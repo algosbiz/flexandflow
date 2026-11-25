@@ -49,7 +49,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Both sessions use the same light, slow technique. What changes is how much of you is covered, and the price. Compared with our [standard lymphatic drainage](/uluwatu-bali/lymphatic-drainage/):",
+    text: "It is the same treatment as our [standard lymphatic drainage](/uluwatu-bali/lymphatic-drainage/). The men's session is just a bit more intense:",
   },
   {
     type: "table",
@@ -57,10 +57,10 @@ const blocks: ContentBlock[] = [
     rows: [
       [
         "Areas covered",
-        "One focused area, such as the legs, or a broader part of the body",
-        "Full body, plus face, scalp, head and neck",
+        "Full body, including legs, stomach and face",
+        "Full body, including legs, stomach and face",
       ],
-      ["Pressure", "Light and slow", "Light and slow"],
+      ["Intensity", "Light and slow", "A bit more intense"],
       [
         "60 min",
         "From IDR {{price:lymphatic-drainage:60:standard}}",
@@ -75,7 +75,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "The pressure is not firmer for men. Lymphatic work is meant to feel light, so it stays gentle for everyone. If you want deep pressure into tight muscles, book a [sport massage](/uluwatu-bali/sport-massage/) instead.",
+    text: "A bit more intense does not mean deep tissue: it is still lymphatic work. If you want deep pressure into tight muscles, book a [sport massage](/uluwatu-bali/sport-massage/) instead.",
   },
   {
     type: "heading",
@@ -84,7 +84,7 @@ const blocks: ContentBlock[] = [
   },
   {
     type: "paragraph",
-    text: "Because the pressure is light, the session fits easily into an active week in Uluwatu. A few practical pointers:",
+    text: "Because it is not deep tissue work, the session fits easily into an active week in Uluwatu. A few practical pointers:",
   },
   {
     type: "list",
@@ -108,16 +108,16 @@ const blocks: ContentBlock[] = [
         answer: "At Flex & Flow in Ungasan, Uluwatu, the lymphatic detox massage for men costs IDR {{price:lymphatic-detox-massage-for-men:60:standard}} for 60 minutes or IDR {{price:lymphatic-detox-massage-for-men:90:standard}} for 90 minutes with our therapist, Yuni. With Ginny, the founder and master therapist, it is IDR {{price:lymphatic-detox-massage-for-men:60:master}} for 60 minutes or IDR {{price:lymphatic-detox-massage-for-men:90:master}} for 90 minutes. A home visit to your villa or hotel in the Uluwatu area adds IDR {{fee}}.",
       },
       {
-        question: "Is a men's lymphatic massage firmer than a normal lymphatic massage?",
-        answer: "No. The men's session uses the same light, slow strokes as standard lymphatic drainage, because lymphatic work is meant to feel gentle. What changes is the content: full-body lymphatic drainage plus facial, scalp, head and neck work. If you want firm pressure on tight or sore muscles, a sport massage is the better choice.",
+        question: "Is a men's lymphatic massage more intense than a normal lymphatic massage?",
+        answer: "A bit, yes. It is the same full-body treatment as our standard lymphatic drainage, with a little more intensity. It is still lymphatic work rather than deep tissue, and you can ask your therapist to ease off at any time. If you want firm pressure on tight or sore muscles, a sport massage is the better choice.",
       },
       {
         question: "Does a lymphatic detox massage actually remove toxins?",
-        answer: "There is no solid evidence that lymphatic massage detoxes the body or removes toxins in healthy people. The lymphatic detox massage for men is a gentle full-body session with face, scalp, head and neck work, which many men find leaves them feeling lighter and less puffy for a while. Our guide to [what lymphatic drainage can and cannot do](/uluwatu-bali/lymphatic-drainage-massage-what-it-can-do/) explains the evidence.",
+        answer: "There is no solid evidence that lymphatic massage detoxes the body or removes toxins in healthy people. The lymphatic detox massage for men is a full-body session with face, scalp, head and neck work, which many men find leaves them feeling lighter and less puffy for a while. Our guide to [what lymphatic drainage can and cannot do](/uluwatu-bali/lymphatic-drainage-massage-what-it-can-do/) explains the evidence.",
       },
       {
         question: "Can I have a lymphatic massage after surfing or the gym?",
-        answer: "Yes. The pressure is light, so a men's lymphatic massage can go on the same day as a surf or a workout, or on a rest day. It aims to leave you feeling lighter and calmer rather than to work deep into sore muscles. For soreness after paddling or lifting, a sport massage usually suits better. Get any new injury checked first.",
+        answer: "Yes. It is not deep tissue work, so a men's lymphatic massage can go on the same day as a surf or a workout, or on a rest day. It aims to leave you feeling lighter and calmer rather than to work deep into sore muscles. For soreness after paddling or lifting, a sport massage usually suits better. Get any new injury checked first.",
       },
       {
         question: "Should I book 60 or 90 minutes for a men's lymphatic massage?",
